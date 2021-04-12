@@ -11,9 +11,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 
@@ -35,6 +32,10 @@ Mobile View
 ![Screenshot_Frontend Mentor 3-column preview card component_mobile](https://user-images.githubusercontent.com/69313172/114368562-0dc9c680-9b6d-11eb-9bf7-0fe0d7fdcbf8.png)
 
 Your can access to the screenshoot in the folder screenshot of my project.
+### Links
+
+
+- Live Site URL: https://3-column-preview-card-component-main-kappa.vercel.app/#
 
 
 ## My process
